@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Happy Valentine’s Day My Love ❤️</title>
