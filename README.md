@@ -16,9 +16,9 @@
   </style>
 </head>
 <body>
-  <h1>❤️ Happy Valentine’s Day darling❤️</h1>
+  <h1>❤️ Happy Valentine’s Day Darling❤️</h1>
   <p>Wishing you lots of love and happiness 💕</p>
-<p1>with love<p2>
+<p1>With lots of love<p1>
 <p2>Chamu</p2>
 </body>
 </html>
